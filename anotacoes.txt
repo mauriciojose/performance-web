@@ -1,0 +1,10 @@
+OTIMIZAÇÃO LOSSLESS
+
+ - Otimização removendo dados desnecessários dos metadados das imagens
+ - existem dois tipos, lossy e lossless:
+  - lossy: perda
+  - lossless: sem perdas
+   * site para remover é o kraken ou tinypng
+  - ferramentas para fazer otimização
+   - imgoptin
+   - 
